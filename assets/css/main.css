@@ -2418,6 +2418,7 @@ body {
   -ms-justify-content: space-between;
   justify-content: space-between;
   background: #101010;
+  opacity: 0.;
   color: rgba(255, 255, 255, 0.5);
   cursor: default;
   height: 1.50rem;
@@ -2640,7 +2641,7 @@ body {
     #heading .testimonials .content .credit strong {
       color: #caab38; }
   #heading:before {
-    background: linear-gradient(135deg, #caab38 0%, #101010 74%);
+    background: linear-gradient(135deg, #101010 0%, #101010 74%);
     content: ' ';
     display: block;
     height: 100%;
