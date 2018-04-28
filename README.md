@@ -1,2 +1,2 @@
 ## PUBGReddit
-:chkn:
+:chkn: .
